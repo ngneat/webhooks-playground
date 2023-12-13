@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "npx netlify-cli dev"
+  },
+  "dependencies": {
+    "@netlify/functions": "^2.4.1"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.10.1"
+  }
+}
